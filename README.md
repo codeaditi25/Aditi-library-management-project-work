@@ -1,5 +1,6 @@
-Library Management System (Python Project)
-Project Overview
+LIBRARY MANAGEMENT SYSTEM (Python Project)
+
+Project Overview:
 This Python project is a simple Library Management System that stores, manages, and updates book records using a text file (library.txt). It allows users to:
 -	Add new books
 -	Display all books
